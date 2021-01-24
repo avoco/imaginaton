@@ -1,4 +1,4 @@
-<img src="https://github.com/avoco/imagination/raw/master/.github/logo.png" width="150" height="150">
+<img src="https://raw.githubusercontent.com/avoco/imaginaton/master/.github/logo.png" width="150" height="150">
 
 # Imag[e]ination
 
